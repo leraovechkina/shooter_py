@@ -1,3 +1,4 @@
+#Проект shooter 1.0
 from pygame import *
 from random import randint
 from time import time as timer
